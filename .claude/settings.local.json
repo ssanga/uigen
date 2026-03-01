@@ -3,7 +3,8 @@
     "allow": [
       "Bash(npx vitest run)",
       "Bash(npm audit fix)",
-      "Bash(npm run test)"
+      "Bash(npm run test)",
+      "mcp__playwright"
     ]
   }
 }
